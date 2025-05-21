@@ -1,4 +1,4 @@
-# Smart Parking Occupancy 🚗📊
+# Smart Parking Occupancy
 
 An ESP32-based smart parking system that uses IoT cloud monitoring and QR code authentication for secure vehicle exit control.
 
